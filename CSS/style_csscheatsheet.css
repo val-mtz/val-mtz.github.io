@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     background-color: aliceblue;
     background-image: linear-gradient(180deg, rgba(0, 4, 255, 0.301),rgb(92, 239, 163));
     background-repeat: no-repeat;
@@ -11,11 +11,13 @@ body {
 h1 {
     text-shadow: 2px 2px #0b1eec99;
     color: #00ffc3f6;
+    font-size: 40px
 }
 
 h2 {
     text-shadow: 2px 2px #0b1eec99;
     color: #00ffc3f6;
+    font-size: 32px;
 }
 
 div {
@@ -54,18 +56,18 @@ div {
 }
 
 .font {
-    font-size: 16px;
+    font-size: 20px;
     padding-left: 20px;
 }
 
 .font_family {
     font-family: 'Garamond', serif;
-    font-size: 15px;
+    font-size: 19px;
     padding-left: 20px;
 }
 
 .font_size-weight {
-    font-size: 13px;
+    font-size: 15px;
     font-weight: bolder;
     padding-left: 20px;
 }
