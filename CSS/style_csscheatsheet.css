@@ -75,11 +75,13 @@ div {
 .width-height {
     background-color: honeydew;
     width: 300px;
-    height: 80px;
+    height: 130px;
     padding-left: 20px;
 }
 
-.list_style {padding-left: 20px;}
+.list_style {
+    padding-left: 20px;
+}
 .list_style > li > ul{
     list-style-type: square;
     list-style-image: linear-gradient(90deg , #ec0b0be2, #0b1eec99);
