@@ -139,7 +139,7 @@ function ejercicio9(lista)
     { lengths.push(lista[i].length); }
     return(Math.min.apply(Math,lengths));
 }
-console.log("Ejercicio 8");
+console.log("Ejercicio 9");
 console.log("Prueba con [Manzana, Pera, Durazno] da como resultado: "+ ejercicio9(['Manzana', 'Pera', 'Durazno']))
 
 // 10. Escribe una función que revise si una cadena de texto es un palíndromo o no.
